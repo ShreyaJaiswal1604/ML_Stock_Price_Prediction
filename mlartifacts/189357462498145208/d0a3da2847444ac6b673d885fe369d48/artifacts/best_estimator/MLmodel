@@ -1,0 +1,47 @@
+artifact_path: best_estimator
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 2.9.2
+model_size_bytes: 1282760
+model_uuid: 680e42f8491f417e9ef1aa5149c265dd
+run_id: d0a3da2847444ac6b673d885fe369d48
+signature:
+  inputs: '[{"type": "double", "name": "Typical_Price_Return"}, {"type": "double",
+    "name": "Volume_Log"}, {"type": "double", "name": "Volume_Differencing"}, {"type":
+    "double", "name": "Volume_Differencing_10"}, {"type": "double", "name": "Volumne_Percent_Change"},
+    {"type": "double", "name": "MA_5"}, {"type": "double", "name": "Volumne_MA_200"},
+    {"type": "double", "name": "Close_EMA_50"}, {"type": "double", "name": "Momentum_AwesomeOscillatorIndicator"},
+    {"type": "double", "name": "Momentum_KAMA"}, {"type": "double", "name": "Momentum_PercentagePVolumneOscillator"},
+    {"type": "double", "name": "Momentum_ROC"}, {"type": "double", "name": "Momentum_RSI"},
+    {"type": "double", "name": "Momentum_StochRSIIndicator"}, {"type": "double", "name":
+    "Momentum_TSIIndicator"}, {"type": "double", "name": "Trend_ADX"}, {"type": "double",
+    "name": "Trend_AroonIndicator"}, {"type": "double", "name": "Trend_CCI"}, {"type":
+    "double", "name": "Trend_DPO"}, {"type": "double", "name": "Trend_EMA"}, {"type":
+    "double", "name": "Trend_MACD"}, {"type": "double", "name": "Trend_MI"}, {"type":
+    "double", "name": "Volumne_CMF"}, {"type": "double", "name": "Volumne_EOM"}, {"type":
+    "double", "name": "Volumne_FI"}, {"type": "double", "name": "Volumne_MFI"}, {"type":
+    "double", "name": "Volumne_VWAP"}, {"type": "double", "name": "Volume_CMF"}, {"type":
+    "double", "name": "Volume_EOM"}, {"type": "double", "name": "Volume_FI"}, {"type":
+    "double", "name": "Volume_MFI"}, {"type": "double", "name": "Volume_VWAP"}, {"type":
+    "double", "name": "Volatility_ATR"}, {"type": "double", "name": "Volatility_BB"},
+    {"type": "double", "name": "Volatility_DonchainChannel"}, {"type": "double", "name":
+    "Volatility_UlcerIndex"}, {"type": "double", "name": "Mkt-RF"}, {"type": "double",
+    "name": "SMB"}, {"type": "double", "name": "HML"}, {"type": "double", "name":
+    "RF"}, {"type": "double", "name": "SP500"}, {"type": "double", "name": "DEXJPUS"},
+    {"type": "double", "name": "DEXUSEU"}, {"type": "double", "name": "CBBTCUSD"},
+    {"type": "double", "name": "ADS_Index"}, {"type": "double", "name": "ADS_Index.1"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2023-12-19 04:56:32.243638'

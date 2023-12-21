@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/189357462498145208/d0a3da2847444ac6b673d885fe369d48/artifacts
+deleted_time: 1702962719377
+end_time: null
+entry_point_name: ''
+experiment_id: '189357462498145208'
+lifecycle_stage: deleted
+run_id: d0a3da2847444ac6b673d885fe369d48
+run_name: secretive-bat-712
+run_uuid: d0a3da2847444ac6b673d885fe369d48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702961783885
+status: 1
+tags: []
+user_id: shreyajaiswal

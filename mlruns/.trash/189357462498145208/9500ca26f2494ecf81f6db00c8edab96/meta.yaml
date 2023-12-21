@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/189357462498145208/9500ca26f2494ecf81f6db00c8edab96/artifacts
+deleted_time: 1702962719377
+end_time: 1702961793388
+entry_point_name: ''
+experiment_id: '189357462498145208'
+lifecycle_stage: deleted
+run_id: 9500ca26f2494ecf81f6db00c8edab96
+run_name: fortunate-kite-521
+run_uuid: 9500ca26f2494ecf81f6db00c8edab96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702961783885
+status: 3
+tags: []
+user_id: shreyajaiswal

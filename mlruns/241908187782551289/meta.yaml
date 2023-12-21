@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/241908187782551289
+creation_time: 1702962853743
+experiment_id: '241908187782551289'
+last_update_time: 1702962853743
+lifecycle_stage: active
+name: nvidia_model_tracking

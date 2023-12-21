@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/189357462498145208/03a7c9942ab949ebac1681d8a09834b7/artifacts
+deleted_time: 1702962719377
+end_time: 1702961793388
+entry_point_name: ''
+experiment_id: '189357462498145208'
+lifecycle_stage: deleted
+run_id: 03a7c9942ab949ebac1681d8a09834b7
+run_name: gifted-hawk-66
+run_uuid: 03a7c9942ab949ebac1681d8a09834b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702961783885
+status: 3
+tags: []
+user_id: shreyajaiswal
