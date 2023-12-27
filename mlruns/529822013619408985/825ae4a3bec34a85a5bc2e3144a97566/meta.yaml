@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/529822013619408985/825ae4a3bec34a85a5bc2e3144a97566/artifacts
+end_time: 1703194743855
+entry_point_name: ''
+experiment_id: '529822013619408985'
+lifecycle_stage: active
+run_id: 825ae4a3bec34a85a5bc2e3144a97566
+run_name: luminous-crab-585
+run_uuid: 825ae4a3bec34a85a5bc2e3144a97566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703194742277
+status: 3
+tags: []
+user_id: shreyajaiswal

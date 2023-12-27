@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/529822013619408985/b9b8a5c50a2e455b823f28c0988c3d01/artifacts
+end_time: 1703200858892
+entry_point_name: ''
+experiment_id: '529822013619408985'
+lifecycle_stage: active
+run_id: b9b8a5c50a2e455b823f28c0988c3d01
+run_name: merciful-cow-115
+run_uuid: b9b8a5c50a2e455b823f28c0988c3d01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703200857541
+status: 3
+tags: []
+user_id: shreyajaiswal

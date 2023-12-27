@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/529822013619408985/9587ccf9a8304750a417936781f9fa91/artifacts
+end_time: 1703198521304
+entry_point_name: ''
+experiment_id: '529822013619408985'
+lifecycle_stage: active
+run_id: 9587ccf9a8304750a417936781f9fa91
+run_name: unique-sow-813
+run_uuid: 9587ccf9a8304750a417936781f9fa91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703198518624
+status: 3
+tags: []
+user_id: shreyajaiswal
